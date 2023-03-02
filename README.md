@@ -4,7 +4,7 @@ Utilisation DATABASE
 
 Pour le projet CRUD j'zi uitilisé database XAMPP, L'api utilisée est Fastapi Le package "phpmyadmin", "mysql"
 
-![database](https://user-images.githubusercontent.com/56391792/222456542-b177503c-38e5-4840-a907-c52742eb3b97.jpg)
+![image](https://user-images.githubusercontent.com/56391792/222458613-619a26fb-ceaa-40fe-a26e-42f2aee08a16.png)
 
 CREATE TABLE `students` (
   `id` int(11) NOT NULL,
@@ -17,7 +17,7 @@ CREATE TABLE `students` (
 Main page
 
 http://127.0.0.1:5000/
-Dans main page vous pouvez faire "UPDATE", "DELETE", "READ". 
+Dans main page vous pouvez faire "INSERT", "UPDATE", "DELETE", "READ". 
 
-![image](https://user-images.githubusercontent.com/56391792/222457631-60f3b7c5-463c-443b-ae4b-848c1f808d05.png)
+![image](https://user-images.githubusercontent.com/56391792/222458664-2e655935-a685-43e4-96e4-7af5a09ee491.png)
 
