@@ -14,9 +14,10 @@ CREATE TABLE `students` (
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
 
 
-Main page
-
+Link API
 http://127.0.0.1:5000/
+
+Main page
 Dans main page vous pouvez faire "INSERT", "UPDATE", "DELETE", "READ". 
 
 ![image](https://user-images.githubusercontent.com/56391792/222458664-2e655935-a685-43e4-96e4-7af5a09ee491.png)
